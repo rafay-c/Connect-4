@@ -1,0 +1,11 @@
+/Users/rafay/Code/Projects/Project-1/Project-1/bin/Debug/netcoreapp2.0/Project-1.deps.json
+/Users/rafay/Code/Projects/Project-1/Project-1/bin/Debug/netcoreapp2.0/Project-1.runtimeconfig.json
+/Users/rafay/Code/Projects/Project-1/Project-1/bin/Debug/netcoreapp2.0/Project-1.runtimeconfig.dev.json
+/Users/rafay/Code/Projects/Project-1/Project-1/bin/Debug/netcoreapp2.0/Project-1.dll
+/Users/rafay/Code/Projects/Project-1/Project-1/bin/Debug/netcoreapp2.0/Project-1.pdb
+/Users/rafay/Code/Projects/Project-1/Project-1/obj/Debug/netcoreapp2.0/Project-1.csprojResolveAssemblyReference.cache
+/Users/rafay/Code/Projects/Project-1/Project-1/obj/Debug/netcoreapp2.0/Project-1.csproj.CoreCompileInputs.cache
+/Users/rafay/Code/Projects/Project-1/Project-1/obj/Debug/netcoreapp2.0/Project-1.AssemblyInfoInputs.cache
+/Users/rafay/Code/Projects/Project-1/Project-1/obj/Debug/netcoreapp2.0/Project-1.AssemblyInfo.cs
+/Users/rafay/Code/Projects/Project-1/Project-1/obj/Debug/netcoreapp2.0/Project-1.dll
+/Users/rafay/Code/Projects/Project-1/Project-1/obj/Debug/netcoreapp2.0/Project-1.pdb
